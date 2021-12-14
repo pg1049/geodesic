@@ -2,6 +2,8 @@
 #include <igl/opengl/glfw/imgui/ImGuiMenu.h>
 #include <igl/opengl/glfw/imgui/ImGuiHelpers.h>
 #include <imgui/imgui.h>
+#include <igl/file_dialog_open.h>
+#include <igl/file_dialog_save.h>
 #include <iostream>
 #include <igl/unproject_onto_mesh.h>
 #include <set>
@@ -28,6 +30,7 @@ int main(int argc, char *argv[])
 	vector<int> Select_Point_id;
 	vector<CPoint3D> path_dijk;
 	vector<CPoint3D> _path_dijk;
+	vector<CPoint3D> path;
 	int addpoint_num;
 	// Init the viewer
 	igl::opengl::glfw::Viewer viewer;
@@ -155,7 +158,7 @@ int main(int argc, char *argv[])
 					cout << _path_dijk.size() << endl;
 					Geodesic2_3 our_method(_path_dijk, model);
 					int iter = our_method.run();
-					auto path = our_method.getpath();
+					path = our_method.getpath();
 					cout << path.size() << endl;
 					for (int i = 0; i < path.size(); i++)
 					{
@@ -163,17 +166,19 @@ int main(int argc, char *argv[])
 						viewer.data().add_points(p1, Eigen::RowVector3d(0, 0, 1));
 					}
 					addpoint_num = path.size();
+	
 				}
-
-				if (ImGui::Button("project path", ImVec2(-1, 0)))
+				if (ImGui::Button("save path", ImVec2(-1, 0)))
 				{
-					//for (int i = 0; i < addpoint_num; i++)
-					//{
-					//	viewer.data().del_last_points();
-					//}
-					//
-					//addpoint_num = path.size();
+					std::string fname = igl::file_dialog_save();
+					ofstream out(fname);
+					for (int i = 0; i < path.size(); i ++)
+					{
+						out << "v " << path[i];
+					}
+					out.close();
 				}
+				
 			}
 			// Expose an enumeration type
 			enum Orientation { Up = 0, Down, Left, Right };
