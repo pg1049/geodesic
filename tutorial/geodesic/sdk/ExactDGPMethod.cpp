@@ -3,10 +3,10 @@
 //////////////////////////////////////////////////////////////////////
 #include "ExactDGPMethod.h"
 #include <windows.h>
-#include <gl/GL.h>
-#include <gl/GLU.h>
-#pragma comment(lib, "opengl32.lib")
-#pragma comment(lib, "glu32.lib")
+//#include <gl/GL.h>
+//#include <gl/GLU.h>
+//#pragma comment(lib, "opengl32.lib")
+//#pragma comment(lib, "glu32.lib")
 #include <fstream>
 #include <iterator>
 #include <cassert>
