@@ -29,7 +29,6 @@
 .idea/
 .vs/
 .vscode/
-/external
 Debug/
 README.html
 Release/
@@ -53,17 +52,6 @@ examples/bbw/examples/*-volume.mesh
 examples/principal_curvature/curvature
 examples/quicklook-mesh/Mesh.qlgenerator/*
 examples/upright/upright
-external/MeshFix/meshfix
-external/embree/build/*
-external/glew/build
-external/glfw/build
-external/libpng/build
-external/medit/rebar.rbr
-external/tetgen/tetgen
-external/tinyxml2/build
-external/tinyxml2/test
-external/tinyxml2/tinyxml2.pc
-external/yimg/showpng
 iglhelpers.pyc
 lib
 libigl.zip

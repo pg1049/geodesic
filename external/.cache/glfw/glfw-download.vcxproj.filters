@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\geodesic\external\.cache\glfw\CMakeFiles\ddaa97d2daabe851ca60001eda4e6b3e\glfw-download-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic\external\.cache\glfw\CMakeFiles\ddaa97d2daabe851ca60001eda4e6b3e\glfw-download-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic\external\.cache\glfw\CMakeFiles\ddaa97d2daabe851ca60001eda4e6b3e\glfw-download-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic\external\.cache\glfw\CMakeFiles\ddaa97d2daabe851ca60001eda4e6b3e\glfw-download-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic\external\.cache\glfw\CMakeFiles\ddaa97d2daabe851ca60001eda4e6b3e\glfw-download-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic\external\.cache\glfw\CMakeFiles\ddaa97d2daabe851ca60001eda4e6b3e\glfw-download-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic\external\.cache\glfw\CMakeFiles\ddaa97d2daabe851ca60001eda4e6b3e\glfw-download-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic\external\.cache\glfw\CMakeFiles\ddaa97d2daabe851ca60001eda4e6b3e\glfw-download-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic\external\.cache\glfw\CMakeFiles\85aeae7e0bb2cc597050ac5f7408fbfa\glfw-download-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic\external\.cache\glfw\CMakeFiles\70e2ab595ced6611d91dc00b907e8315\glfw-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic\external\.cache\glfw\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="G:\geodesic\external\.cache\glfw\CMakeFiles\glfw-download" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B9AE24C4-5D2A-349F-9CAD-F1019F35780D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
