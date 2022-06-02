@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\CoMISo\CMakeFiles\8adeeaeb96eee1e98c40ce61f7eb41ba\CoMISo-download-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\CoMISo\CMakeFiles\8adeeaeb96eee1e98c40ce61f7eb41ba\CoMISo-download-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\CoMISo\CMakeFiles\8adeeaeb96eee1e98c40ce61f7eb41ba\CoMISo-download-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\CoMISo\CMakeFiles\8adeeaeb96eee1e98c40ce61f7eb41ba\CoMISo-download-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\CoMISo\CMakeFiles\8adeeaeb96eee1e98c40ce61f7eb41ba\CoMISo-download-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\CoMISo\CMakeFiles\8adeeaeb96eee1e98c40ce61f7eb41ba\CoMISo-download-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\CoMISo\CMakeFiles\8adeeaeb96eee1e98c40ce61f7eb41ba\CoMISo-download-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\CoMISo\CMakeFiles\8adeeaeb96eee1e98c40ce61f7eb41ba\CoMISo-download-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\CoMISo\CMakeFiles\5bbfe770c0b44e9638004aee62c0a566\CoMISo-download-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\CoMISo\CMakeFiles\40a1d038117be7fe9f06d6d6379bb26a\CoMISo-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\CoMISo\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="G:\geodesic-master\external\.cache\CoMISo\CMakeFiles\CoMISo-download" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FDFECC3D-DF06-3C1C-8A5A-CFD41D09EC85}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\glad\CMakeFiles\2f6b1847aff5cad9aa6119370832aa4a\glad-download-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\glad\CMakeFiles\2f6b1847aff5cad9aa6119370832aa4a\glad-download-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\glad\CMakeFiles\2f6b1847aff5cad9aa6119370832aa4a\glad-download-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\glad\CMakeFiles\2f6b1847aff5cad9aa6119370832aa4a\glad-download-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\glad\CMakeFiles\2f6b1847aff5cad9aa6119370832aa4a\glad-download-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\glad\CMakeFiles\2f6b1847aff5cad9aa6119370832aa4a\glad-download-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\glad\CMakeFiles\2f6b1847aff5cad9aa6119370832aa4a\glad-download-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\glad\CMakeFiles\2f6b1847aff5cad9aa6119370832aa4a\glad-download-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\glad\CMakeFiles\2bf1bfe9ab0389a7337f323df45b6035\glad-download-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\glad\CMakeFiles\e7abf29cc8aa2cb81109e36af21eca96\glad-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\glad\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="G:\geodesic-master\external\.cache\glad\CMakeFiles\glad-download" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{024BE643-17F3-3088-9B8E-28168ADD17EA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

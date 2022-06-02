@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\eigen\CMakeFiles\5a1a5f54e418e93c3e82f9c82fc86180\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BE0F8E51-46C8-34EB-8D0E-FA0BFC635082}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

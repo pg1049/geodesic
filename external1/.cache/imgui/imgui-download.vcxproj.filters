@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\imgui\CMakeFiles\b7d47b6f1317d497ce6460aa70c567a7\imgui-download-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\imgui\CMakeFiles\b7d47b6f1317d497ce6460aa70c567a7\imgui-download-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\imgui\CMakeFiles\b7d47b6f1317d497ce6460aa70c567a7\imgui-download-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\imgui\CMakeFiles\b7d47b6f1317d497ce6460aa70c567a7\imgui-download-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\imgui\CMakeFiles\b7d47b6f1317d497ce6460aa70c567a7\imgui-download-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\imgui\CMakeFiles\b7d47b6f1317d497ce6460aa70c567a7\imgui-download-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\imgui\CMakeFiles\b7d47b6f1317d497ce6460aa70c567a7\imgui-download-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\imgui\CMakeFiles\b7d47b6f1317d497ce6460aa70c567a7\imgui-download-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\imgui\CMakeFiles\f2ba43218ded14e12ec05aa832f4fa92\imgui-download-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\imgui\CMakeFiles\63f6747c45d65dc60c1464a4eb3d38bc\imgui-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\imgui\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="G:\geodesic-master\external\.cache\imgui\CMakeFiles\imgui-download" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{69067014-32AD-32CA-874B-72DA9ECAA770}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

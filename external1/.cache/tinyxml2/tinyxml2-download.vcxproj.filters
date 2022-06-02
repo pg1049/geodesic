@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\tinyxml2\CMakeFiles\a29ea74aaa625d1a00080bc585117931\tinyxml2-download-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\tinyxml2\CMakeFiles\a29ea74aaa625d1a00080bc585117931\tinyxml2-download-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\tinyxml2\CMakeFiles\a29ea74aaa625d1a00080bc585117931\tinyxml2-download-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\tinyxml2\CMakeFiles\a29ea74aaa625d1a00080bc585117931\tinyxml2-download-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\tinyxml2\CMakeFiles\a29ea74aaa625d1a00080bc585117931\tinyxml2-download-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\tinyxml2\CMakeFiles\a29ea74aaa625d1a00080bc585117931\tinyxml2-download-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\tinyxml2\CMakeFiles\a29ea74aaa625d1a00080bc585117931\tinyxml2-download-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\tinyxml2\CMakeFiles\a29ea74aaa625d1a00080bc585117931\tinyxml2-download-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\tinyxml2\CMakeFiles\86ab133b1b76dcff5050d24b2f2a21c8\tinyxml2-download-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\tinyxml2\CMakeFiles\4cce734d5ddd3a4dbab3795c04ab9607\tinyxml2-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\tinyxml2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="G:\geodesic-master\external\.cache\tinyxml2\CMakeFiles\tinyxml2-download" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4F0B850E-A429-3B3A-A1B1-CD69FE224ED1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

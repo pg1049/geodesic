@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\predicates\CMakeFiles\d1af73398888396dda91352f9af61ec5\predicates-download-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\predicates\CMakeFiles\d1af73398888396dda91352f9af61ec5\predicates-download-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\predicates\CMakeFiles\d1af73398888396dda91352f9af61ec5\predicates-download-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\predicates\CMakeFiles\d1af73398888396dda91352f9af61ec5\predicates-download-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\predicates\CMakeFiles\d1af73398888396dda91352f9af61ec5\predicates-download-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\predicates\CMakeFiles\d1af73398888396dda91352f9af61ec5\predicates-download-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\predicates\CMakeFiles\d1af73398888396dda91352f9af61ec5\predicates-download-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\predicates\CMakeFiles\d1af73398888396dda91352f9af61ec5\predicates-download-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\predicates\CMakeFiles\fe420c68eb19a86dc27b4534ef15eb8f\predicates-download-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\predicates\CMakeFiles\4448e79db673adf6cf988b3cf2764a74\predicates-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\predicates\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="G:\geodesic-master\external\.cache\predicates\CMakeFiles\predicates-download" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{800FBE5B-F1FC-3ECF-BADA-DFB7A09D0925}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

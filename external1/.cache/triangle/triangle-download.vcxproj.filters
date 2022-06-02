@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\triangle\CMakeFiles\28f522491534ec6666c3a1af50582e3f\triangle-download-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\triangle\CMakeFiles\28f522491534ec6666c3a1af50582e3f\triangle-download-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\triangle\CMakeFiles\28f522491534ec6666c3a1af50582e3f\triangle-download-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\triangle\CMakeFiles\28f522491534ec6666c3a1af50582e3f\triangle-download-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\triangle\CMakeFiles\28f522491534ec6666c3a1af50582e3f\triangle-download-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\triangle\CMakeFiles\28f522491534ec6666c3a1af50582e3f\triangle-download-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\triangle\CMakeFiles\28f522491534ec6666c3a1af50582e3f\triangle-download-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\triangle\CMakeFiles\28f522491534ec6666c3a1af50582e3f\triangle-download-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\triangle\CMakeFiles\6d0dacf26f5476fbadddf5c1adf98a1b\triangle-download-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\triangle\CMakeFiles\62ce52a2402a2c7c3589edebe4e62cd8\triangle-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\triangle\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="G:\geodesic-master\external\.cache\triangle\CMakeFiles\triangle-download" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E1AA202E-3086-3B24-9369-ACF1E18C12BF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

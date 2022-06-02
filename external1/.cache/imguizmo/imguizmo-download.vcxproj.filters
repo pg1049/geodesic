@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\imguizmo\CMakeFiles\965bb22e4b665ad4ab49adc0671adc6b\imguizmo-download-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\imguizmo\CMakeFiles\965bb22e4b665ad4ab49adc0671adc6b\imguizmo-download-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\imguizmo\CMakeFiles\965bb22e4b665ad4ab49adc0671adc6b\imguizmo-download-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\imguizmo\CMakeFiles\965bb22e4b665ad4ab49adc0671adc6b\imguizmo-download-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\imguizmo\CMakeFiles\965bb22e4b665ad4ab49adc0671adc6b\imguizmo-download-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\imguizmo\CMakeFiles\965bb22e4b665ad4ab49adc0671adc6b\imguizmo-download-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\imguizmo\CMakeFiles\965bb22e4b665ad4ab49adc0671adc6b\imguizmo-download-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\imguizmo\CMakeFiles\965bb22e4b665ad4ab49adc0671adc6b\imguizmo-download-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\imguizmo\CMakeFiles\07100e8bb1154a1731f3dcc956ae06c8\imguizmo-download-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\imguizmo\CMakeFiles\f9887834b2d940c5d88b9f5f005950b1\imguizmo-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\imguizmo\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="G:\geodesic-master\external\.cache\imguizmo\CMakeFiles\imguizmo-download" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{729517BF-1E05-3D95-B585-B20716947E80}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

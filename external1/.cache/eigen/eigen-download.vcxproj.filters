@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\eigen\CMakeFiles\22722907fd1895f2eedd78a90f2a258d\eigen-download-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\eigen\CMakeFiles\22722907fd1895f2eedd78a90f2a258d\eigen-download-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\eigen\CMakeFiles\22722907fd1895f2eedd78a90f2a258d\eigen-download-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\eigen\CMakeFiles\22722907fd1895f2eedd78a90f2a258d\eigen-download-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\eigen\CMakeFiles\22722907fd1895f2eedd78a90f2a258d\eigen-download-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\eigen\CMakeFiles\22722907fd1895f2eedd78a90f2a258d\eigen-download-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\eigen\CMakeFiles\22722907fd1895f2eedd78a90f2a258d\eigen-download-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\eigen\CMakeFiles\22722907fd1895f2eedd78a90f2a258d\eigen-download-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\eigen\CMakeFiles\f76760042735c20113d9a5c27f1ff264\eigen-download-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\eigen\CMakeFiles\5a1a5f54e418e93c3e82f9c82fc86180\eigen-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\eigen\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="G:\geodesic-master\external\.cache\eigen\CMakeFiles\eigen-download" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BE0F8E51-46C8-34EB-8D0E-FA0BFC635082}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

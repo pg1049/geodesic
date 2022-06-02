@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\embree\CMakeFiles\031ea90f8a891b9e458902fd7ce4f54b\embree-download-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\embree\CMakeFiles\031ea90f8a891b9e458902fd7ce4f54b\embree-download-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\embree\CMakeFiles\031ea90f8a891b9e458902fd7ce4f54b\embree-download-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\embree\CMakeFiles\031ea90f8a891b9e458902fd7ce4f54b\embree-download-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\embree\CMakeFiles\031ea90f8a891b9e458902fd7ce4f54b\embree-download-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\embree\CMakeFiles\031ea90f8a891b9e458902fd7ce4f54b\embree-download-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\embree\CMakeFiles\031ea90f8a891b9e458902fd7ce4f54b\embree-download-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\embree\CMakeFiles\031ea90f8a891b9e458902fd7ce4f54b\embree-download-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\embree\CMakeFiles\345dac20aeb936f6e37773fc9ac550b7\embree-download-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\embree\CMakeFiles\0051865844ba0e5a24313167a4436eb7\embree-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\embree\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="G:\geodesic-master\external\.cache\embree\CMakeFiles\embree-download" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AA69EE9D-486C-3CFA-8ED2-6FBC92F7B8DD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

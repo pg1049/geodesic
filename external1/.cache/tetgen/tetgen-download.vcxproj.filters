@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\tetgen\CMakeFiles\c1baddea2ea943eea0924cfce72de7da\tetgen-download-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\tetgen\CMakeFiles\c1baddea2ea943eea0924cfce72de7da\tetgen-download-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\tetgen\CMakeFiles\c1baddea2ea943eea0924cfce72de7da\tetgen-download-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\tetgen\CMakeFiles\c1baddea2ea943eea0924cfce72de7da\tetgen-download-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\tetgen\CMakeFiles\c1baddea2ea943eea0924cfce72de7da\tetgen-download-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\tetgen\CMakeFiles\c1baddea2ea943eea0924cfce72de7da\tetgen-download-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\tetgen\CMakeFiles\c1baddea2ea943eea0924cfce72de7da\tetgen-download-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\tetgen\CMakeFiles\c1baddea2ea943eea0924cfce72de7da\tetgen-download-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\tetgen\CMakeFiles\9f67e9a774d1ea7c73545d34132e41bf\tetgen-download-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\tetgen\CMakeFiles\4f75ba24203138d9da90614b93590325\tetgen-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\geodesic-master\external\.cache\tetgen\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="G:\geodesic-master\external\.cache\tetgen\CMakeFiles\tetgen-download" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2F307B20-4A85-35A1-975C-48607CCD637B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
