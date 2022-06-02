@@ -62,11 +62,7 @@ if(LIBIGL_BUILD_TUTORIALS)
 	add_subdirectory(tutorial)
 endif()
 
-if(LIBIGL_BUILD_TESTS)
-	include(CTest)
-	enable_testing()
-	add_subdirectory(tests)
-endif()
+
 
 if(LIBIGL_TOPLEVEL_PROJECT)
 	# Set folders for Visual Studio/Xcode
